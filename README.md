@@ -8,7 +8,6 @@ tools under them, and the backend that keeps them online. C++, C#, Java, TypeScr
 | | |
 |---|---|
 | [astral-engine](https://github.com/ReynnSolaris/astral-engine) | 2D/3D engine scripted in Luau. raylib + Dear ImGui, immediate-mode draw and UI, ready-made ARPG/RPG/RTS components, dedicated servers, server-authoritative replication, encrypted saves and shipping archives. CMake. |
-| [echoforge-rpg](https://github.com/ReynnSolaris/echoforge-rpg) | Browser 2.5D action-loot RPG with LAN multiplayer and a host-driven server browser. TypeScript monorepo. |
 | [pgquest](https://github.com/ReynnSolaris/pgquest) | Learn PostgreSQL by repairing a broken database. 30 levels on real Postgres in the browser via PGlite. React + Vite. |
 
 ## Minecraft
@@ -27,7 +26,6 @@ tools under them, and the backend that keeps them online. C++, C#, Java, TypeScr
 |---|---|
 | [quest-log-sorter](https://github.com/ReynnSolaris/quest-log-sorter) | F4SE plugin. Grouped, collapsible Pip-Boy quest log with objectives nested under their quests; DLC and mod quests get their own sections. |
 | [gif-maker](https://github.com/ReynnSolaris/gif-maker) | Chrome/Brave extension. Hover a video, pick a range on a thumbnail timeline, save a GIF. |
-| [dev-nexus](https://github.com/ReynnSolaris/dev-nexus) | Scaffold generator for Minecraft JSON, .NET Web APIs and Angular, with a sprite editor. Angular + Electron. |
 | [discord-miner-bot](https://github.com/ReynnSolaris/discord-miner-bot) | Incremental mining game as a Discord bot. discord.js + MySQL. |
 
 ## Closed source
